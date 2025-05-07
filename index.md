@@ -22,6 +22,7 @@ Instagram   : bg_gabeds
 Here are some of my projects:
 
 1. [Glitchuations](#) - Enter a glitched world where every direction you go a math equation appears. Choose you way, climb the tower, and get lucky.
+[Play Glitchuations](glitchuations/)
 2. [Project Two](#) - Another brief description
 
 ## Contact
