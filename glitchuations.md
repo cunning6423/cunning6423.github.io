@@ -5,6 +5,7 @@ permalink: /glitchuations/
 ---
 <!-- Inline CSS for glitch effect (just on this page) -->
 <style>
+    <!-- Background glitch effect. -->
 body {
   background: #0d0d0d;
   color: white;
@@ -81,7 +82,7 @@ body {
   }
 }
 
-
+<!-- Heading glitch effect-->
 .glitch {
   font-family: monospace;
   position: relative;
@@ -144,3 +145,25 @@ function moveFloor() {
   }
 }
 </script>
+
+# My Project
+
+<!-- This section is for the introduction, which is still being written. -->
+This is a project started in Mr.Norris C++ class. Look forward to the completed version...
+
+## Glitchuations Game
+
+<!-- The next section will explain the gameplay mechanics. -->
+Glitchuations: A Choose-Your-Own Adventure Game
+Step into a mysterious glitch tower where every floor is a new challenge! In Glitchuations, you must navigate through an ever-changing digital environment filled with unexpected glitches and mind-bending decisions.
+
+Game Mechanics
+Choose Your Path: At each floor, you’re faced with a mathmatical equation. Where you go detemines what kind of questions you'll find  — so choose wisely!
+
+Glitchy Obstacles: As you attempt to climb the tower, you'll encounter random glitches that may halt your progress, sending you back to previous floors.
+
+Random Chance: Even when you make the right choices, the tower isn’t always predictable. Sometimes, it’s all about luck! The chances of moving to the next floor are determined randomly.
+
+Endless Replayability: With every playthrough offering new answers and paths, Glitchuations invites you to test your decision-making skills and see how far you can ascend the glitch tower.
+
+Can you beat the tower and escape the endless cycle of glitches? Start your journey now and see if you have what it takes to reach the top!
