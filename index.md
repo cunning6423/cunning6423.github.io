@@ -10,6 +10,13 @@ I'm a student/developer/ who loves:
 - Learning new technologies
 - Sharing knowledge
 
+Currently learning Java and C++
+
+
+## Social media 
+Instagram   : bg_gabeds
+
+
 ## Projects
 
 Here are some of my projects:
@@ -19,4 +26,4 @@ Here are some of my projects:
 
 ## Contact
 
-You can reach me at [your-email@example.com](mailto:your-email@example.com)
+You can reach me at [gabeworkemail@gmail.com](mailto:your-email@example.com)
